@@ -2,7 +2,7 @@
 .env
 code/util
 code/others
-code/.ipynb_checkpoints
+.ipynb_checkpoints
 configs/
 data/
 logs/
